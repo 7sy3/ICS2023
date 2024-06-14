@@ -1,5 +1,5 @@
-STUID = 221220000
-STUNAME = 张三
+STUID = 7700
+STUNAME = Chloe Huang
 
 # DO NOT modify the following code!!!
 
